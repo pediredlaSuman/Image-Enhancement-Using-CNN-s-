@@ -1,15 +1,12 @@
-- Methodology involves advanced techniques like Multi-Scale Residual Block and Selective Kernel Fusion.
-- Explores latest research in image dehazing using GANs and traditional enhancement methods.
-- CNN architecture prioritizes feature extraction, spatial hierarchies, and filter parameterization for robust results.
-- Diverse dataset undergoes rigorous preprocessing, including standardization, noise removal, and contrast enhancement.
-- Results highlight CNN outperforming benchmarks with 84.96% accuracy and 0.8702 F1 score.
-- Framework includes Multi-Scale Residual Block, attention mechanisms, and Recursive Residual Design.
-- Requires proficiency in CNN design, feature extraction, and model customization skills.
-- Project showcases advanced image enhancement, emphasizing balanced framework and skilled implementation.
+1. Methodology integrates Multi-Scale Residual Block and Selective Kernel Fusion for advanced techniques.
+2. Explores GANs and traditional methods in cutting-edge image dehazing research.
+3. CNN architecture prioritizes feature extraction, spatial hierarchies, and filter parameterization for robust outcomes.
+4. Rigorous preprocessing of diverse datasets includes standardization, noise removal, and contrast enhancement.
+5. Results demonstrate CNN surpassing benchmarks, achieving 84.96% accuracy and 0.8702 F1 score.
   
-- Real-time Uses and Applications:Medical Imaging Enhancement,Surveillance Systems Improvement,Computational Photography Enhancement,Cinematography and Filmmaking Advancements, Artificial Intelligence and Computer Vision 
+Real-time Uses and Applications:Medical Imaging Enhancement,Surveillance Systems Improvement,Computational Photography Enhancement,Cinematography and Filmmaking Advancements, Artificial Intelligence and Computer Vision 
   Improvement, Remote Sensing and Geographic Information Systems (GIS), Traffic Management Optimization, Reality Enhancement, Educational Visual Aids Improvement
 
-- Workspace:Versatile Integration,Collaborative Potential: 
-- Integration into Daily Life:- Healthcare advances with improved diagnostics,Enhanced security measures strengthen public safety.Technological evolution drives innovation and collaboration across industries.
+
+![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/8753ad1f-5889-42e1-a717-3143db2fe5a2)![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/cf34ac2e-da38-4ee8-b487-df9f9f5b44e5)
 
