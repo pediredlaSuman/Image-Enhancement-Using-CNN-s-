@@ -8,5 +8,6 @@ Real-time Uses and Applications:Medical Imaging Enhancement,Surveillance Systems
   Improvement, Remote Sensing and Geographic Information Systems (GIS), Traffic Management Optimization, Reality Enhancement, Educational Visual Aids Improvement
 
 
-![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/8753ad1f-5889-42e1-a717-3143db2fe5a2)![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/cf34ac2e-da38-4ee8-b487-df9f9f5b44e5)
+![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/8753ad1f-5889-42e1-a717-3143db2fe5a2)!
+[image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/cf34ac2e-da38-4ee8-b487-df9f9f5b44e5)
 
