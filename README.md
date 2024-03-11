@@ -11,6 +11,7 @@ Real-time Uses and Applications:Medical Imaging Enhancement,Surveillance Systems
 
 ![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/cf34ac2e-da38-4ee8-b487-df9f9f5b44e5)
 
-![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/19602423-2669-46ab-ac73-e73811204208)
+![image](https://github.com/pediredlaSuman/Image-Enhancement-Using-CNN-s-/assets/141764451/ea9692a6-8936-4784-b544-5eba5296b9ab)
+
 
 
